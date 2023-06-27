@@ -1,5 +1,6 @@
 ### yelp-scrape-review-sentiment
-Scraping text data and ratings from restaurant reviews on Yelp to build a simple Sentiment Analysis Model.
+Text Mining | Web Scraping | Yelp API | Sentiment Analysis
+Scraping text data and ratings from restaurant reviews on Yelp to build a Sentiment Analysis Model.
 ## Yelp Review Sentiment Analysis
 This project uses Yelp's API to scrape customer reviews and ratings for restaurants in Toronto. It then uses Natural Language Processing (NLP) techniques to analyze the sentiment of the reviews.
 
