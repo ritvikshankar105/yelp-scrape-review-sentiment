@@ -1,5 +1,4 @@
-### yelp-scrape-review-sentiment
-Text Mining | Web Scraping | Yelp API | Sentiment Analysis
+## Text Mining/NLP | Web Scraping | Yelp API | Sentiment Analysis | Text Data Cleaning
 
 Scraping text data and ratings from restaurant reviews on Yelp to build a Sentiment Analysis Model.
 ## Yelp Review Sentiment Analysis
